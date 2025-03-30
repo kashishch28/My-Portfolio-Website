@@ -9,7 +9,7 @@ Contact – Ways to get in touch with me.
 Responsive Design – Optimized for all devices.
 
 🚀 Live Demo
-Check out the live website here: [https://kashishch28.github.io/Portfolio/]
+Check out the live website here: https://kashishch28.github.io/My-Portfolio-Website/
 
 🛠️ Technologies Used
 HTML – Structure of the website.
